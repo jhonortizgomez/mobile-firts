@@ -1,4 +1,4 @@
-# Primero Mobile
+# Mobile first
 
 Este es un proyecto que implementa la metodología de mobile first
 

@@ -1,6 +1,5 @@
 # Mobile first
-
-Este es un proyecto que implementa la metodología de mobile first
+Bienvenido al proyecto "Mobile First", una implementación que sigue la metodología de diseño centrado en dispositivos móviles. Este enfoque garantiza una experiencia óptima para usuarios que acceden desde dispositivos móviles, priorizando la usabilidad en pantallas más pequeñas y luego escalando a dispositivos más grandes.
 
 ## Tegnologias utilizadas
 
